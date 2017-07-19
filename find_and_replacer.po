@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: findandreplacer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-06 11:32-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Wes Goodhoofd <wgoodhoofd@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;_\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: find-and-replacer.php:318
+msgid "Find and Replacer 1.6"
+msgstr ""
+
+#: find-and-replacer.php:319
+msgid ""
+"This page offers a more powerful way to replace text <em>and tags</em> in your entire blog. Currently it can search through the post content and post title. Use regular text for normal replacements, but use <code>(*)</code> for wildcards. To replace tags, use <code>(*)</code> between the tags you wish to replace. Be sure to complete the proper options to make sure you do the right replacement. Whitespace must be exactly replicated.</p>\n"
+"<p>For examples of proper syntax, visit <a href=\"http://www.wesg.ca/2008/08/wordpress-plugin-find-and-replacer/#examples\">the plugin home page</a>."
+msgstr ""
+
+#: find-and-replacer.php:324
+msgid "Options"
+msgstr ""
+
+#: find-and-replacer.php:328
+msgid "Starting ID to search"
+msgstr ""
+
+#: find-and-replacer.php:329
+msgid "Last ID to search"
+msgstr ""
+
+#: find-and-replacer.php:330
+msgid "Text to find"
+msgstr ""
+
+#: find-and-replacer.php:331
+msgid "Text to replace"
+msgstr ""
+
+#: find-and-replacer.php:332
+msgid "Search through all posts"
+msgstr ""
+
+#: find-and-replacer.php:333
+msgid "Skip Revisions (only edit published posts and drafts)"
+msgstr ""
+
+#: find-and-replacer.php:335
+msgid "Search post content"
+msgstr ""
+
+#: find-and-replacer.php:336
+msgid "Search post titles"
+msgstr ""
+
+#: find-and-replacer.php:337
+msgid "Search comment text"
+msgstr ""
+
+#: find-and-replacer.php:341
+msgid "Edit Pages"
+msgstr ""
+
+#: find-and-replacer.php:353
+msgid "Page Listing"
+msgstr ""
+
+#: find-and-replacer.php:356
+msgid "Sort by:"
+msgstr ""
+
+#: find-and-replacer.php:356
+#: find-and-replacer.php:360
+msgid "Post ID"
+msgstr ""
+
+#: find-and-replacer.php:356
+#: find-and-replacer.php:360
+msgid "Post Title"
+msgstr ""
+
+#: find-and-replacer.php:356
+msgid "Post Date"
+msgstr ""
+
+#: find-and-replacer.php:356
+msgid "Post status"
+msgstr ""
+
+#: find-and-replacer.php:357
+msgid "Number of posts to show:"
+msgstr ""
+
+#: find-and-replacer.php:358
+msgid "Order of data:"
+msgstr ""
+
+#: find-and-replacer.php:358
+msgid "Up"
+msgstr ""
+
+#: find-and-replacer.php:358
+msgid "Down"
+msgstr ""
+
+#: find-and-replacer.php:360
+msgid "Date posted"
+msgstr ""
+
+#: find-and-replacer.php:413
+msgid "Plugin Information"
+msgstr ""
+
